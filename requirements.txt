@@ -1,0 +1,7 @@
+Devin Nunez
+*running assessment*
+
+1. Run an Anaconda enviornment via Anaconda terminal.
+2. Within the enviornment create a jupyter notebook.
+2. Import python and libraries such as pandas and matplotlib.
+3. Run program in jupyter notebook.
